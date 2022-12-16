@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1641327314 source:c:\users\lipe0\desktop\ufop\4º semestre\algoritmos e estrutura de dados i\trabalho ii\sistemavotacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1641335789 c:\users\lipe0\desktop\ufop\4º semestre\algoritmos e estrutura de dados i\trabalho ii\sistemavotacao\arvore.h
+
+1641340070 source:c:\users\lipe0\desktop\ufop\4º semestre\algoritmos e estrutura de dados i\trabalho ii\sistemavotacao\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
